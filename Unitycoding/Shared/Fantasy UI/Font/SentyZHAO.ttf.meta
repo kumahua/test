@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9a8c1eb6315050944884ce65e95e6d5b
+timeCreated: 1522147259
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SentyZHAO ?????
+  fontNames:
+  - SentyZHAO ?????
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

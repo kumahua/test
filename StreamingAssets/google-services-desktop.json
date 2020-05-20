@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284216954829",
+    "firebase_url": "https://fir-mmorpg.firebaseio.com",
+    "project_id": "fir-mmorpg",
+    "storage_bucket": "fir-mmorpg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284216954829:android:ee829313af4347952f3e84",
+        "android_client_info": {
+          "package_name": "com.dong.mmorpg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284216954829-p7bilbhjtm5gcae2brmn794uf3tav3lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0p4qRjgzEcWrkEde5kD2plJ-9odPr2t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284216954829-p7bilbhjtm5gcae2brmn794uf3tav3lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
